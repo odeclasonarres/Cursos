@@ -2,8 +2,8 @@
 Recopilación de enlaces a cursos y formación reglada que he recibido.
 
 ### Formación reglada
-* Ciclo Formativo de Grado Superior en [Desarrollo de Aplicaciones Multiplataforma]()
-* [Grado en Ingeniería Informática]() - (Incompleta)
+* Ciclo Formativo de Grado Superior en [Desarrollo de Aplicaciones Multiplataforma](https://github.com/odeclasonarres/Trabajos-DAM)
+* [Grado en Ingeniería Informática](https://github.com/odeclasonarres/Trabajos-G.Ing.Informatica) - (Incompleta)
 
 ### [Programación de redes](https://github.com/odeclasonarres/Prog.de-Redes---Becas-Digitaliza) [Becas Digitaliza - Cisco]
 * Introducción al IoT(curso previo habilitante),
